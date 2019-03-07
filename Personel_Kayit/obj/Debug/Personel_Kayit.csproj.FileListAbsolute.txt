@@ -1,0 +1,13 @@
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csprojAssemblyReference.cache
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Formistatistik.resources
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FormAnaform.resources
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Formgrafikler.resources
+C:\Users\addi\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FormGiris.resources
